@@ -4,5 +4,7 @@
   - HTML5;
   - CSS3;
   - JavaScript;
+  - Relational databases (SQL language);
+  - Firbase integration;
   - And I am also willing to learn more about React.js.
-- You can check my repositories to see al the projects I have already coded! 👨‍💻
+- You can check my repositories to see all the projects I have already coded! 👨‍💻
