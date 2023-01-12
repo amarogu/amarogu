@@ -7,4 +7,5 @@
   - Relational databases (SQL language);
   - Firbase integration;
   - And I am also willing to learn more about React.js.
-- You can check my repositories to see all the projects I have already coded! 👨‍💻
+- I have over 2 years of experience on all of the skills that were mentioned above.
+- You can check my repositories to see some of the projects I have already coded, besides simpler ones that are not listed here! 👨‍💻
