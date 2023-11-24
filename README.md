@@ -1,11 +1,1 @@
-- Hi, I am Gustavo! I am a front-end web developer, mainly dedicated to making static web designs 💻
-- I am currently enrolled at a System Development course at a local 'Centro Paula Souza (CPS)' Technical School 🏫
-- My main skills are:
-  - HTML5;
-  - CSS3;
-  - JavaScript;
-  - Relational databases (SQL language);
-  - Firbase integration;
-  - And I am also willing to learn more about React.js.
-- I have over 2 years of experience on all of the skills that were mentioned above.
-- You can check my repositories to see some of the projects I have already coded, besides simpler ones that are not listed here! 👨‍💻
+I love developing some cool stuff 😘
