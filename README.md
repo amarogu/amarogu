@@ -1,1 +1,1 @@
-I love developing some cool stuff 😘
+I love developing some cool stuff
